@@ -1,0 +1,18 @@
+AuthURL:
+
+https://api.digitallocker.gov.in/public/oauth2/1/authorize?response_type=code&client_id=CF14A865&redirect_uri=http://localhost:8000/verification/digilocker&state=GET
+
+https://api.digitallocker.gov.in/public/oauth2/1/authorize?access_token=digilockeremptra&response_type=code&client_id=00A75A34&redirect_uri=https://emptra.com/government-documents.php&state=GET&access_token=digilockeremptra&employee_id=11
+
+https://accounts.digitallocker.gov.in/signin/oauth_partner/oauth2/1/authorize?response_type=code&client_id=CF14A865&state=GET&redirect_uri=http://localhost:8000/verification/digilocker&orgid=005145&txn=613d90e67ab361296320a808oauth21631424742&hashkey=a8699bd7c157d53bb6fbb730be58eb54a19ee227b11c1d1616bcfc384422e808&requst_pdf=Y&signup=signup
+
+Digilocker Dashboard
+
+URL: https://partners.digitallocker.gov.in/public/login	
+u: emptra	
+p: Emptra@2021
+
+API References:
+
+https://apisetu.gov.in/public/api/digilocker#/File%20APIs/Get%20List%20of%20issued%20Documents%20id
+https://img1.digitallocker.gov.in/assets/img/Digital%20Locker%20Authorized%20Partner%20API%20Specification%20v1.11.pdf
